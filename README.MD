@@ -4,3 +4,4 @@
 
 надо будет поменять на настоящий текст и настоящие данные
 
+Чтобы был удобный домен требуется указать в settings -> pages -> Custom Domain например docs.pixelapps.ru или другой нужный домен, перед этим записав в CNAME docs.pixelapps.ru | pixelapps1.github.io
