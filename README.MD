@@ -1,7 +1,7 @@
-﻿### Базовая реализация
+﻿# Базовая реализация
 
-# https://pixelapps1.github.io/vtc-docs/index.html
-# страница 404 - https://pixelapps1.github.io/vtc-docs/bbbbbbb.html
+### https://pixelapps1.github.io/vtc-docs/index.html
+### страница 404 - https://pixelapps1.github.io/vtc-docs/bbbbbbb.html
 
 сделал базовый шаблонный текст для каждой страницы и дефолтные данные указал
 
