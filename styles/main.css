@@ -77,6 +77,14 @@ main {
         font-size: 1rem;
     }
 
+    .main-content {
+        height: 64.1vh;
+        align-items: flex-start;
+        padding: 2vw 30vw;
+        font-size: 1rem;
+        justify-content: center;
+    }
+
     nav {
         margin-top: 0;
         display: flex;
